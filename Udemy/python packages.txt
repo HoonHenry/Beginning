@@ -1,0 +1,7 @@
+pip install --upgrade setuptools
+pip install graphviz
+pip install pydotplus
+pip install opencv-python
+pip install tensorflow
+pip install keras
+
