@@ -5,3 +5,18 @@ pip install opencv-python
 pip install tensorflow
 pip install keras
 
+To install konlpy --> Checking "https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/"
+1. installing Java 1.7+ --> go "https://java.com/ko/download/windows-64bit.jsp" and download
+2. To set JAVA_HOME --> go "https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/index.html"
+--> click the link for windows "https://www.oracle.com/technetwork/java/javase/downloads/index.html"
+--> click "download" --> click a proper version and download --> install the file at the same dir as Java1.7+
+--> hit "win+pause" --> Advanced system setting --> "Environmental variables"
+--> make "JAVA_HOME" at the dir where the jkd file exists
+--> go "Path" --> adding "%JAVA_HOME%\bin"
+3. install JPype1 >= 0.7.0 from "https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype"
+--> download at a proper version (win64bit --> win_amd64) at the ~Lib\site-packages 
+--> at cmd prompt, change dir to ~Lib\site-packages
+--> pip install --upgrade pip
+--> pip install JPype1-0.7.0-cp37-cp37m-win_amd64.whl (after downloading the whl file)
+4. pip install konlpy
+
