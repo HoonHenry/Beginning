@@ -20,3 +20,19 @@ To install konlpy --> Checking "https://konlpy-ko.readthedocs.io/ko/v0.4.3/insta
 --> pip install JPype1-0.7.0-cp37-cp37m-win_amd64.whl (after downloading the whl file)
 4. pip install konlpy
 
+
+To install imgaug
+1. Download whl file from https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+2. check the python version installed
+3. Shapely-1.6.4.post2-cp37-cp37m-win_amd64 --> cp37: 3.7 version, win_amd: 64 bit window
+4. go to the path where the whl file downloaded
+5. At the cmd prompt, python -m pip install Shapely-1.6.4.post2-cp37-cp37m-win_amd64
+6. pip install imgaug
+
+
+To intall nltk
+1. At the cmd prompt, enter python
+2. import nltk
+3. nltk.download()
+4. Once downloading is finished, close the download wizard, and quit()
+
