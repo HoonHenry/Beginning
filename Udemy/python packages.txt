@@ -1,9 +1,11 @@
 pip install --upgrade setuptools
-pip install graphviz
+pip install graphviz or conda install python-graphviz
 pip install pydotplus
 pip install opencv-python
 pip install tensorflow
 pip install keras
+pip install pyLDAvis
+pip install gensim
 
 To install konlpy --> Checking "https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/"
 1. installing Java 1.7+ --> go "https://java.com/ko/download/windows-64bit.jsp" and download
