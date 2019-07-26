@@ -6,6 +6,7 @@ pip install tensorflow
 pip install keras
 pip install pyLDAvis
 pip install gensim
+pip install imutils
 
 To install konlpy --> Checking "https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/"
 1. installing Java 1.7+ --> go "https://java.com/ko/download/windows-64bit.jsp" and download
