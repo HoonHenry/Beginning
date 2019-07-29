@@ -7,9 +7,11 @@ pip install keras
 pip install pyLDAvis
 pip install gensim
 pip install imutils
+pip install gym
+
 
 To install konlpy --> Checking "https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/"
-1. installing Java 1.7+ --> go "https://java.com/ko/download/windows-64bit.jsp" and download
+1. installing Java 1.7+ --> go "https://java.com/ko/download/windows-64bit.jsp" and download/install
 2. To set JAVA_HOME --> go "https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/index.html"
 --> click the link for windows "https://www.oracle.com/technetwork/java/javase/downloads/index.html"
 --> click "download" --> click a proper version and download --> install the file at the same dir as Java1.7+
